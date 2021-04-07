@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a605b34-afa7-4a65-a06c-7a234ef0f256" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/design-pattern-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/DesignPatternCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/JavaDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/lib/kotlin-reflect-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/lib/kotlin-reflect.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/lib/kotlin-stdlib-jdk7-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/lib/kotlin-stdlib-jdk7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/lib/kotlin-stdlib-jdk8-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/lib/kotlin-stdlib-jdk8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/lib/kotlin-stdlib-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/lib/kotlin-stdlib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/lib/kotlin-test-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/lib/kotlin-test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/_abstract/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/_abstract/AbstractFactoryMainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/_abstract/AbstractProductA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/_abstract/AbstractProductB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/_abstract/AbstractProductC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/_abstract/ConcreteFactory1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/_abstract/ConcreteFactory2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/_abstract/ConcreteFactory3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/_abstract/ProductA1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/_abstract/ProductA2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/_abstract/ProductB1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/_abstract/ProductB2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/_abstract/ProductC1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/_abstract/ProductC2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/method/ConcreteFactoryA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/method/ConcreteFactoryB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/method/ConcreteIProductA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/method/ConcreteIProductAA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/method/ConcreteIProductB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/method/ConcreteIProductBB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/method/IFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/method/IProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/method/MethodFactoryMainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/simple/ConcreteIProductA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/simple/ConcreteIProductB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/simple/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/simple/IProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/factory/simple/SimpleFactoryMainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/singleinstance/DoubleCheckSingleInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/singleinstance/HungrySingleInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/singleinstance/LazySingleInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/singleinstance/SingleInstanceTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/singleinstance/SingleInstanceTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/singleinstance/SingleInstanceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/singleinstance/StaticInnerSingleInstance$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/singleinstance/StaticInnerSingleInstance$StaticInnerClassHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/design_pattern/singleinstance/StaticInnerSingleInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/javabase/Super/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/javabase/Super/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/DesignPatternCode/javabase/Super/Super.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/_abstract/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/_abstract/AbstractFactoryMainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/_abstract/AbstractProductA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/_abstract/AbstractProductB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/_abstract/AbstractProductC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/_abstract/ConcreteFactory1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/_abstract/ConcreteFactory2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/_abstract/ConcreteFactory3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/_abstract/ProductA1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/_abstract/ProductA2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/_abstract/ProductB1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/_abstract/ProductB2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/_abstract/ProductC1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/_abstract/ProductC2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/method/ConcreteFactoryA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/method/ConcreteFactoryB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/method/ConcreteIProductA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/method/ConcreteIProductAA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/method/ConcreteIProductB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/method/ConcreteIProductBB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/method/IFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/method/IProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/method/MethodFactoryMainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/simple/ConcreteIProductA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/simple/ConcreteIProductB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/simple/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/simple/IProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/factory/simple/SimpleFactoryMainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/singleinstance/HungrySingleInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/singleinstance/LazySingleInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/singleinstance/SingleInstanceTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/singleinstance/SingleInstanceTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/out/production/JavaDemo/design_pattern/singleinstance/SingleInstanceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/adapter/_class/ClassAdaptee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/adapter/_class/ClassAdaptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/adapter/_class/IClassTarget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/adapter/_object/IObjectTarget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/bridge/Abstraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/bridge/BridgeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/bridge/ConcreteImplementorA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/bridge/ConcreteImplementorB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/bridge/Implementor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/bridge/RefineAbstraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/_abstract/AbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/_abstract/AbstractFactoryMainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/_abstract/AbstractProductA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/_abstract/AbstractProductB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/_abstract/AbstractProductC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/_abstract/ConcreteFactory1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/_abstract/ConcreteFactory2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/_abstract/ConcreteFactory3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/_abstract/ProductA1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/_abstract/ProductA2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/_abstract/ProductB1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/_abstract/ProductB2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/_abstract/ProductC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/_abstract/ProductC2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/method/ConcreteFactoryA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/method/ConcreteFactoryB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/method/ConcreteIProductA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/method/ConcreteIProductAA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/method/ConcreteIProductB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/method/ConcreteIProductBB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/method/IFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/method/IProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/method/MethodFactoryMainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/simple/ConcreteIProductA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/simple/ConcreteIProductB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/simple/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/simple/IProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/factory/simple/SimpleFactoryMainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/singleinstance/DoubleCheckSingleInstance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/singleinstance/HungrySingleInstance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/singleinstance/LazySingleInstance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/singleinstance/SingleInstanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/design_pattern/singleinstance/StaticInnerSingleInstance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/javabase/Super/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/javabase/Super/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/javabase/Super/Super.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/kt/KtTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternCode/src/kt/Test.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a605b34-afa7-4a65-a06c-7a234ef0f256" name="Default Changelist" comment="" />
+      <created>1617763334429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617763334429</updated>
+      <workItem from="1617763337819" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
